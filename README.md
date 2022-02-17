@@ -8,3 +8,5 @@ it was so hard to make
 `if ok.sodd(2):`\
   `print("returns odd")`
 
+## notes 
+idk if it works i never tested it
