@@ -6,5 +6,5 @@ it was so hard to make
 `if ok.iseven(2):`\
   `print("this will return even")`\
 `if ok.sodd(2):`\
-  `print("returns odd")`\
+  `print("returns odd")`
 
