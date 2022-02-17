@@ -1,7 +1,7 @@
 # even-or-odd-python-library
 it was so hard to make
 
-##docs
+## docs
 `import evenorodd as ok`\
 `if ok.iseven(2):`\
   `print("this will return even")`\
