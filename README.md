@@ -2,9 +2,9 @@
 it was so hard to make
 
 ##docs
-`import evenorodd as ok\n
-if ok.iseven(2):\n
-  print("this will return even")\n
-if ok.sodd(2): \n
-  print("returns odd")\n
+`import evenorodd as ok<br />
+if ok.iseven(2):<br />
+  print("this will return even")<br />
+if ok.sodd(2): <br />
+  print("returns odd")<br />
 `
