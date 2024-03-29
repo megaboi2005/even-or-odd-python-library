@@ -1,12 +1,4 @@
 def iseven(num):
-	try:
-		int(num/2)
-	except TypeError:
-		return False
-	return True:
+	return num % 2 == 0
 def isodd(num):
-	try:
-		int(num/2)
-		return False
-	except TypeError:
-		return True
+	return num % 2 == 1
